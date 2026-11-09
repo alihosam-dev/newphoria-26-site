@@ -1,0 +1,23 @@
+{
+  "name": "Newphoria 26",
+  "short_name": "Newphoria 26",
+  "description": "New College Orientation 2026 leader logistics",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e5",
+  "theme_color": "#123d2d",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
